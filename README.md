@@ -12,3 +12,6 @@ Laboratorios de AWS bootcamp - Python 108 - 116
 7. 114 -  [PF] - Condicionales
 8. 115 -  [PF] - Bucles
 9. 116 -  [PF] - Creación de un repositorio
+10. 118 - [PF] - Preparación para preparar la insulina con Python
+11. 120 - [PF] - Secuencia de cadenas y peso numérico de la insulina
+12. 122 - [PF] - Cálculo de la carga neta de la insulina mediante listas y bucles de Python
