@@ -15,3 +15,5 @@ Laboratorios de AWS bootcamp - Python 108 - 116
 10. 118 - [PF] - Preparación para preparar la insulina con Python
 11. 120 - [PF] - Secuencia de cadenas y peso numérico de la insulina
 12. 122 - [PF] - Cálculo de la carga neta de la insulina mediante listas y bucles de Python
+13. 124 - [PF] - Uso de funciones para implementar un cifrado Cesar
+14. 126 - [PF] - Controladores de archivos y modulos para recuperar información sobre la insulina
